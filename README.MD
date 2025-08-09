@@ -1,6 +1,6 @@
 # f1f_sling
 
-A FiveM script for weapon slinging, custom weapon position adjustment, and immersive draw/holster animations. Supports persistent saving of weapon positions per player, with special animations for police and sheriff jobs.
+A FiveM script for weapon holster, custom weapon position adjustment, and immersive draw/holster animations. Supports persistent saving of weapon positions per player, with special animations for police and sheriff jobs.
 
 ![Preview](https://i.ibb.co/XktzzHdZ/Sn-mka-obrazovky-2025-08-09-130834.png)
 
